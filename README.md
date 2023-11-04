@@ -64,6 +64,8 @@ EhViewer fork dedicated to lightweight and high-performance
 
 with Material Design 3 and Dynamic Color Support
 
+test
+
 # Download
 
 <a href="https://github.com/Ehviewer-Overhauled/Ehviewer/releases"><img alt="Get it on Github" src="art/get-it-on-github.svg" width="200px"/></a>
