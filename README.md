@@ -1,3 +1,6 @@
+https://github.com/idontusearchbtw/Ehviewer/actions/runs/6754163240
+You probably want arm64-v8a
+
 <p align="right">
   <strong>English<strong>
   <span> | </span>
